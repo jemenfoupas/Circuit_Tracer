@@ -1,0 +1,1 @@
+Usage: java CircuitTracer [-s -- use a stack for storage | -q -- use a queue for storage ] [-c --run program in console mode | -g --run program in GUI mode ] fileName 
